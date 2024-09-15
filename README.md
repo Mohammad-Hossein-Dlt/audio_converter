@@ -1,7 +1,10 @@
 
-# How does this program convert audio files to different qualities at the same time?
+## Install requirements
 
-
+```python
+pip install -r requirements.txt
+```
+## How does this program convert audio files to different qualities at the same time?
 
 ```python
 from moviepy.editor import AudioFileClip
